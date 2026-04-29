@@ -1,0 +1,19 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Dashboard & UI
+streamlit
+plotly
+joblib
+
+# Development Tools (Optional for VS Code)
+ipykernel
+notebook
